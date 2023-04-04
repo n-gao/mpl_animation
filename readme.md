@@ -10,6 +10,10 @@ pip install git+https://github.com/n-gao/mpl_animation.git
 
 ## Usage
 ```python
+import matplotlib.pyplot as plt
+import numpy as np
+from mpl_animation import *
+
 fig, ax = plt.subplots(figsize=(6, 4))
 np.random.seed(2)
 
