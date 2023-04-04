@@ -51,4 +51,8 @@ plt.show()
 ```
 
 ### Result
-![Example video](video/example.mp4)
+
+https://user-images.githubusercontent.com/9084670/229813839-9cd2e64e-3cc9-448a-b77b-fe0f2c754ffb.mp4
+
+
+
